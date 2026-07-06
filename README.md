@@ -5,7 +5,6 @@
 - 💻 I'm currently building real-world MERN Stack projects
 - 🤖 I'm exploring AI and Machine Learning applications
 - 🌱 Currently learning Advanced React, Node.js & Cloud Technologies
-- 🏆 2× National-Level Hackathon Winner
 - 👨‍💻 Interested in Full-Stack Development, AI, and Open Source
 - 📫 Reach me at: **mohammadsemeer@gmail.com**
 
